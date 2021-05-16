@@ -16,3 +16,13 @@ body {
     background-size: cover;
 }
 
+.play_button {
+
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas {
+
+    border:5px solid white;
+}
